@@ -4,10 +4,12 @@ footer,
   background-color: #0d6efd;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.navbar-brand:hover {
   background-color: #084298 !important;
   color: #ffffff;
 }
+
 
 h2,
 h3 {
